@@ -110,7 +110,7 @@ strong{
     padding: 30px 20px;
     border-top-right-radius: 15px;   
     border-bottom-right-radius: 15px;
-    gap: 15px;
+    gap: 30px;
 }
 
 .container-resultados h2{
@@ -123,6 +123,11 @@ strong{
     justify-content: space-between;
     padding: 10px;
     border-radius: 5px;
+    margin-top: 20px;
+}
+
+.container-espec:nth-child(1){
+    margin-top: 0;
 }
 
 .espec{
